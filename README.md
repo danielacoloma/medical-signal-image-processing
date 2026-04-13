@@ -62,9 +62,3 @@ End-of-course laboratory exam integrating the three blocks:
 | Image processing | DICOM, NIFTI, spatial/frequency filtering, segmentation, morphological descriptors |
 | Machine learning | MLP, backpropagation, train/test evaluation, binary classification |
 | Data | Real EEG (Alzheimer's cohort), brain/ankle/chest MRI, CT, retinal fundus images, clinical tabular data |
-
----
-
-## Context
-
-These labs are part of the 4th-year Biomedical Engineering curriculum at Universidad de Valladolid. They complement my Final Year Project on hospital occupancy prediction (XGBoost, SHAP, full-stack deployment at Hospital Universitario Río Hortega) and my Erasmus coursework in Machine Learning and ICT for Healthcare at Politecnico di Milano.
