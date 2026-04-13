@@ -65,5 +65,6 @@ End-of-course laboratory exam integrating the three blocks:
 
 ---
 
-Context
+## Context
+
 These labs are part of the 3th-year Biomedical Engineering curriculum at Universidad de Valladolid. They complement my Final Year Project on hospital occupancy prediction (XGBoost, SHAP, full-stack deployment at Hospital Universitario Río Hortega) and my Erasmus coursework in Machine Learning and ICT for Healthcare at Politecnico di Milano.
